@@ -17,3 +17,20 @@ Deployed a secure static website using Amazon S3 and Amazon CloudFront with HTTP
 
 ## Live Website
 https://drgljsz62xn3q.cloudfront.net
+## Project Screenshots
+
+### Amazon S3 Configuration
+- S3 Bucket Overview
+- S3 Website Deployment
+- S3 Bucket Policy
+- S3 ACL Configuration
+
+### Amazon CloudFront Configuration
+- CloudFront Distribution
+- CloudFront Origin Configuration
+- CloudFront Behaviors
+- CloudFront Default Root Object
+- CloudFront Cache Invalidation
+
+### Website Deployment
+- Static Website Deployment
