@@ -17,8 +17,7 @@ Deployed a secure static website using Amazon S3 and Amazon CloudFront with HTTP
 - Secured S3 access using Origin Access Control (OAC)
 - Troubleshot AWS permissions and caching issues
 
-## Live Website
-https://drgljsz62xn3q.cloudfront.net
+
 ## Project Screenshots
 
 ### Amazon S3 Configuration
