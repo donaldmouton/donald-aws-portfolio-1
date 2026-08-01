@@ -35,3 +35,6 @@ Deployed a secure static website using Amazon S3 and Amazon CloudFront with HTTP
 
 ### Website Deployment
 - Static Website Deployment
+- ## Architecture Diagram
+
+![AWS Secure Static Website Architecture](aws-secure-static-website-architecture.png)
