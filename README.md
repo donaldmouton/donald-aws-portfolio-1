@@ -18,7 +18,7 @@ Deployed a secure static website using Amazon S3 and Amazon CloudFront with HTTP
 - Troubleshot AWS permissions and caching issues
 ## Architecture Diagram
 
-![AWS EC2 Web Server Architecture](ec2-web-server-architecture.png)
+![AWS Secure Static Website Architecture](aws-secure-static-website-architecture.png)
 
 ## Project Screenshots
 
@@ -59,7 +59,7 @@ Deployed a secure static website using AWS cloud services.
 
 ### Overview
 Deployed and configured an Apache web server on an Amazon EC2 instance. Configured network access using AWS security groups and verified public web access.
-![AWS Secure Static Website Architecture](aws-secure-static-website-architecture.png)
+![AWS EC2 Web Server Architecture](ec2-web-server-architecture.png)
 # AWS Cloud Portfolio
 
 ### AWS Services Used
