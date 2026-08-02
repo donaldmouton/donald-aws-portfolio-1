@@ -38,3 +38,34 @@ Deployed a secure static website using Amazon S3 and Amazon CloudFront with HTTP
 - ## Architecture Diagram
 
 ![AWS Secure Static Website Architecture](aws-secure-static-website-architecture.png)
+# AWS Cloud Portfolio
+
+## Project 1: Secure Static Website Infrastructure Deployment
+
+### Overview
+Deployed a secure static website using AWS cloud services.
+
+### AWS Services Used
+- Amazon S3
+- Amazon CloudFront
+- IAM
+- S3 Bucket Policies
+
+---
+
+## Project 2: EC2 Web Server Deployment
+
+### Overview
+Deployed and configured an Apache web server on an Amazon EC2 instance. Configured network access using AWS security groups and verified public web access.
+
+### AWS Services Used
+- Amazon EC2
+- Amazon VPC
+- Security Groups
+- IAM
+
+### Live Demo
+http://52.14.59.23
+
+### Architecture
+User → EC2 Instance → Apache Web Server
