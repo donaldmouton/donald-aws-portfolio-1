@@ -16,7 +16,9 @@ Deployed a secure static website using Amazon S3 and Amazon CloudFront with HTTP
 - Configured CloudFront distribution with HTTPS
 - Secured S3 access using Origin Access Control (OAC)
 - Troubleshot AWS permissions and caching issues
+## Architecture Diagram
 
+![AWS EC2 Web Server Architecture](ec2-web-server-architecture.png)
 
 ## Project Screenshots
 
