@@ -72,4 +72,10 @@ Deployed and configured an Apache web server on an Amazon EC2 instance. Configur
 http://52.14.59.23
 
 ### Architecture
-User → EC2 Instance → Apache Web Server
+User → EC2 Instance → Apache Web Server 
+
+## Project 3: CloudOps Incident Management System
+
+### Architecture
+
+![CloudOps Incident Management Architecture](orange%20and%20white%20modern%20recruitment%20process%20flowchart%20graph.png)
