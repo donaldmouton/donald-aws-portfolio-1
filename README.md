@@ -78,4 +78,9 @@ User → EC2 Instance → Apache Web Server
 
 ### Architecture
 
-![CloudOps Incident Management Architecture](orange%20and%20white%20modern%20recruitment%20process%20flowchart%20graph.png)
+
+## Project 3: CloudOps Incident Management System
+
+### Architecture
+
+![CloudOps Incident Management Architecture](Orange%20and%20White%20Modern%20Recruitment%20Process%20Flowchart%20Graph.png)
