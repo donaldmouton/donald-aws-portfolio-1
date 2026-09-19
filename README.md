@@ -82,6 +82,9 @@ User → EC2 Instance → Apache Web Server
 ## Project 3: CloudOps Incident Management System
 
 ### Architecture
+### Live Demo
+
+[Open CloudOps Incident Management System](https://drgljsz62xn3q.cloudfront.net/incident.html)
 
 ![CloudOps Incident Management Architecture](Orange%20and%20White%20Modern%20Recruitment%20Process%20Flowchart%20Graph.png) 
 This architecture demonstrates a serverless incident management workflow using Amazon CloudFront, API Gateway, AWS Lambda, DynamoDB, and IAM.
